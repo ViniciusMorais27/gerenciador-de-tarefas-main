@@ -1,5 +1,6 @@
 
 # Gerenciador de Tarefas (ToDo App)
+![Gerenciador de Tarefas](todo.gif)
 
 ## Descrição do Projeto
 
